@@ -7,6 +7,10 @@ September 22, 2024
 
 This project implements a design pattern assignment using both the **Abstract Factory Pattern** and the **Factory Method Pattern**. The goal is to create different grocery products (such as Bananas and Apples), set their prices after creation by reading from a data file, and demonstrate the functionality with a test driver.
 
+## UML DIAGRAM
+![uml](static/UML.PNG)
+
+
 ## Project Structure
 
 The repository is structured as follows:
